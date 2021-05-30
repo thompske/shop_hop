@@ -1,0 +1,3 @@
+maps_key = "YOUR-GOOGLE-MAPS-API-KEY-HERE"
+home_addr = "Your House, In the Middle of Your St., Your Town, MN 55455"
+alt_start_addr = "Address of a hotel? Campground? Your BQFF's house?"

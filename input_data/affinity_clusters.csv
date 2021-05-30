@@ -1,0 +1,53 @@
+region,shop name,address,lat,lng,affinity_cluster
+metro,Affinity for Quilts,"2199 4th St, White Bear Lake, MN 55110",45.0855867,-93.0078652,0
+metro,Country Loft Quilt & Design,"15161 Feller St NE, Forest Lake, MN 55025",45.24449480000001,-93.02603640000001,0
+metro,Millie P's Quilt Shop,"219 E Main St, Anoka, MN 55303",45.1981781,-93.38845620000001,0
+metro,Quilt Cove,"1960 Cliff Lake Rd, Suite 134, Eagan, MN 55122",44.7942112,-93.204791,0
+metro,Quilter's Haven,"2930 146th St, Suite 108, Rosemount, MN 55068",44.7373301,-93.1250426,0
+metro,Twin Cities Quilting,"550 County Rd D, New Brighton, MN 55112",45.0362424,-93.1942715,0
+east central,Country Caboose Quilts,"108 South Main St, Wahkon, MN 56386",46.11646210000001,-93.5209848,3
+east central,Gone to Pieces Quilt Shop,"70 S Main, Kimball, MN 55353",45.313569799999996,-94.3001749,4
+east central,Gruber's Quilt Shop,"310 4th Ave NE, Waite Park, MN 56387",45.55924659999999,-94.2068809,4
+east central,The Noble Quilter,"19570 Holt St NW, Elk River, MN 55330",45.3263943,-93.5638344,0
+east central,Quarry Quilts & Yarns,"326 Quarry Place, Sandstone, MN 55072",46.124488299999996,-92.8846361,1
+east central,Quilted Treasures,"14178 Northdale Blvd, Rogers, MN 55374",45.211043,-93.553919,0
+northeast,47 Degrees North Quilt Shop,"5325 W Hwy 61 #3, Lutsen, MN 55612",47.724412799999996,-90.4445296,1
+northeast,Hannah Johnson Fabrics,"4511 E Superior St, Duluth, MN 55804",46.827637200000005,-92.0323471,1
+northeast,Hingeley Road Quilt Shop,"11284 Hwy 2, Floodwood, MN 55736",46.8785185,-92.867063,1
+northeast,Quilt Corner,"1007 Main St, Beaver Bay, MN 55601",47.2589152,-91.2991293,1
+northeast,Quilted Dog Quilt Shop,"274 Hwy 33 N, Cloquet, MN 55720",46.746570399999996,-92.45949770000001,1
+northwest,Anderson Fabrics Quilt Shop,"24 Summit Ave E, Blackduck, MN 56630",47.7299346,-94.5479583,2
+northwest,Oklee Quilting Supply,"205 Main St, Oklee, MN 56742",47.8399399,-95.8547502,2
+northwest,"Quilter's Jem, LLC","1525 Central Ave NW, East Grand Forks, MN 56721",47.9408461,-97.0209789,2
+northwest,Sadie Rae's Quilt Shop,"405 Beltrami Ave NW, Bemidji, MN 56601",47.471895,-94.881437,2
+northwest,Up North Quilt Shop,"4062 Highway 11, International Falls, MN 56649",48.572548499999996,-93.4395956,2
+north central,Colorz Quilt Shop,"14091 Baxter Drive, Suite 112, Baxter, MN 56425",46.355866799999994,-94.2273891,3
+north central,Front Porch Quilt Shop,"613 Michigan Ave W, Walker, MN 56484",47.1004722,-94.58444509999998,3
+north central,Hometown Crafts & Fabrics,"111 S. Jefferson St, Wadena, MN 56482",46.44070869999999,-95.1376307,3
+north central,Mother Originals Quilt Shop,"29514 Patriot Ave, Pequot Lakes, MN 56472",46.5805559,-94.3081574,3
+north central,Quilter's Cottage,"1701 W Lincoln Ave, Fergus Falls, MN 56537",46.284485100000005,-96.10419420000001,3
+west central,Dawn's Quilt Shop,"522 Broadway St, Alexandria, MN 56308",45.88617429999999,-95.3780526,3
+west central,DeAnn's Country Village Shoppe,"115 Sibley Ave N, Litchfield, MN 55355",45.1269287,-94.5283382,4
+west central,Heather's Book Nook & Sew Much More,"682 Prentice St, Granite Falls, MN 56241",44.8114027,-95.538025,4
+west central,Paisley Threads,"14 Main St S, New London, MN 56273",45.3011018,-94.9442539,4
+west central,Quilt Haven on Main  ,"7 N Main St, Hutchinson, MN 55350",44.896660600000004,-94.36927790000001,4
+west central,Sweetwater Cotton shoppe,"122 W James St, Paynesville, MN 56362",45.3821829,-94.7148875,4
+south central,Cabby's Corner Quilt & Fabric,"1030 1st Ave, Gibbon, MN 55335",44.5330574,-94.52703259999998,4
+south central,Quilter's Dream,"116 1st St S, Montgomery, MN 56069",44.438185600000004,-93.5813483,0
+south central,Quilting by the Hearth,"208 Main St S, Lonsdale, MN 55046",44.47931,-93.42802900000001,0
+south central,River City Quilts,"529 N Riverfront Drive, Mankato 56001",44.1718863,-93.9981083,6
+south central,Sewing Seeds Quilt Company,"1417 S State St, New Ulm, MN 56073",44.297668200000004,-94.4476761,5
+south central,Spinning Spools Quilt Shop,"106 S Minnesota St, New Ulm, MN 56073",44.3118287,-94.457911,5
+south central,Sue's Quilt Shop,"112 Main Street E, New Prague, MN 56071",44.543357,-93.5764844,0
+south central,The Thimble Box,"2 South Minnesota St, New Ulm, MN 56073",44.312824,-94.45905,5
+southwest,Crafty Corner Quilt & Sewing Shoppe,"1820 Oxford St, Worthington, MN 56187",43.630674299999995,-95.5826103,5
+southwest,Michele's Quilting & Sewing Center,"120 N Main St, Blue Earth, MN 56013",43.639181799999996,-94.1022565,5
+southwest,Old Alley Quilt Shop,"115 N Main St, Sherburn, MN 56171",43.6539078,-94.7280559,5
+southwest,Prairie Quilting,"1293 Hale Place, Windom, MN 56101",43.8702909,-95.1131007,5
+southwest,Stitchin' It Up Quilt Shop,"12536 County Highway 6, Lamberton, MN 56152",44.2327285,-95.27081590000002,5
+southeast,Bluffview Quilt Shop,"1671 W 5th St, Winona, MN 55987",44.055571,-91.6832632,6
+southeast,Calico Hutch,"20520 810th Ave, Hayward, MN 56043",43.651288799999996,-93.2481113,6
+southeast,The Humble Heart,"49 S Broadway, Wells, MN 56097",43.74428169999999,-93.7253723,6
+southeast,Pine Needles Quilt & Sew,"1300 Salem Rd SW, Rochester, MN 55902",44.004667100000006,-92.4839857,6
+southeast,Rather Bee Quilting,"106 S Lakeshore Dr, Lake City, MN 55041",44.449163399999996,-92.266553,6
+southeast,What's Brewing Quilt Shop,"330 2nd St W, Wabasha 55981",44.3843299,-92.0354511,6

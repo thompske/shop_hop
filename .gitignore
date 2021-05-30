@@ -1,0 +1,4 @@
+config.py
+output_data/
+.ipynb_checkpoints/
+__pycache__/
